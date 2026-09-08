@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.46/a5cfe99fdf320e84955ef653f2ce1bf789d11385/lombok-1.18.46.jar" />
+        </processorPath>
+        <module name="TH_Ss04.main" />
+        <module name="TH_Ss04.test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="e" target="17" />
+      <module name="S" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="S" options="-parameters" />
+      <module name="S.main" options="-parameters" />
+      <module name="S.test" options="-parameters" />
+      <module name="TH_Ss04" options="-parameters" />
+      <module name="TH_Ss04.main" options="-parameters" />
+      <module name="TH_Ss04.test" options="-parameters" />
+      <module name="demo_Ss03" options="-parameters" />
+      <module name="demo_Ss03.main" options="-parameters" />
+      <module name="demo_Ss03.test" options="-parameters" />
+      <module name="e" options="-parameters" />
+      <module name="e.main" options="-parameters" />
+      <module name="e.test" options="-parameters" />
+      <module name="librax-library" options="-parameters" />
+      <module name="librax-library.main" options="-parameters" />
+      <module name="librax-library.test" options="-parameters" />
+    </option>
+  </component>
+</project>

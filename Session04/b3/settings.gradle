@@ -1,0 +1,8 @@
+rootProject.name = 'medicare-microservices'
+
+include 'config-server'
+include 'patient-service'
+include 'doctor-service'
+include 'appointment-service'
+include 'medical-record-service'
+include 'pharmacy-service'

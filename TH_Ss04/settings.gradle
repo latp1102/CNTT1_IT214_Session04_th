@@ -1,0 +1,8 @@
+rootProject.name = 'TH_Ss04'
+include 'config-service'
+include 'eureka-service'
+include 'students-service'
+include 'subjects-service'
+include 'schedules-service'
+include 'attendance-service'
+include 'exam-service'
